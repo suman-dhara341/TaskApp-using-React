@@ -68,7 +68,7 @@ const App = () => {
           />
           <button className="px-4 py-2 mt-4 bg-blue-600 rounded-md hover:bg-blue-700"
             onClick={Submit}
-          >{editIndex !=null ? "Edit" : "Submit"}</button>
+          >{editIndex !=null ? "Update" : "Submit"}</button>
         </form>
 
 
